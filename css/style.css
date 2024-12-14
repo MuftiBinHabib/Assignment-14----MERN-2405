@@ -1,0 +1,292 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+.navigation{
+    background-color: #EEEDDE;
+
+}
+
+.navigation ul{
+    gap: 40px;
+}
+
+.container{
+    width: 1166px;
+    margin: 0 auto;
+}
+
+/* Banner */
+#banner{
+    padding-top: 96px;
+    background-color: #EEEDDE;
+}
+
+#banner .left{
+    position: relative;
+}
+
+#banner h1{
+    margin-top: 179px;
+    width: 777px;
+    height: 168px;
+}
+
+#banner h2{
+    margin-top: 24px;
+}
+
+#banner input{
+    margin-top: 55px;
+    height: 70px;
+    width: 508px;
+    border: none;
+}
+
+#banner ::placeholder{
+    padding-left: 56px;
+}
+
+#banner .location {
+    position: absolute;
+    bottom: 210px;
+    left: 32px;
+}
+
+#banner button{
+    width: 138px;
+    height: 70px;
+    border: none;
+    background-color: #FFFFFF;
+    margin-bottom: 181px;
+}
+
+#banner .right img{
+    padding-top: 96px;
+}
+
+/* Properti */
+#properti{
+    width: 1366px;
+    background-color: 1366px;
+}
+
+#properti .propertiwrapper h2{
+    padding-top: 100px;
+    padding-left: 100px;
+    width: 618px;
+    
+    font-weight: 600;
+
+}
+
+#properti .cardrow{
+    margin-left: 100px;
+    margin-top: 64px;
+}
+
+#properti .cards{
+    height: 300px;
+    width: 300px;
+   
+}
+
+#properti .button{
+   margin-bottom: -125px;
+   background-color: #FFFFFF;
+    border: none;
+    color: black;
+}
+
+#properti .button2{
+    margin-bottom: -168px;
+    background-color: #FFFFFF;
+    border: none;
+    color: black;
+}
+
+#properti .button3{
+    margin-bottom: -165px;
+    background-color: #FFFFFF;
+    border: none;
+    color: black;
+}
+
+/* Pilihan */
+#pilihan{
+    margin-top: 100px;
+    background-color: #EEEDDE;
+}
+
+#pilihan .title{
+
+    padding-top: 68px;
+
+}
+
+#pilihan .firstbutton{
+    width: 234px;
+}
+
+
+#pilihan .residen{
+    padding-top: 8px;
+}
+
+#pilihan .masterrow{
+    padding-top: 64px;
+}
+
+#pilihan .imagecompilation{
+    position: relative;
+}
+
+#pilihan .image2{
+    position: absolute;
+    left: 167px;
+    top: 60px;
+    
+}
+
+#pilihan .right h2{
+    margin-left: 70px;
+}
+
+#pilihan .right h3{
+    width: 570px;
+    margin-top: 24px;
+    margin-left: 70px;
+}
+
+#pilihan .right ul{
+    gap: 48px;
+    margin-top: 48px;
+    list-style: none;
+    display: flex;
+    position: relative;
+}
+
+#pilihan .right .button1{
+    height: 50px;
+    width: 234px;
+    margin-left: 70px;
+    border: 1px solid black;
+}
+
+#pilihan .right .button2{
+    height: 50px;
+    width: 251px;
+    margin-bottom: 259px;
+    margin-left: 70px;
+    border: 1px solid black;
+}
+
+#pilihan .right button:hover{
+    background-color: #203239;
+    color: #FFFFFF;
+}
+
+
+#pilihan .right .phone {
+    position: absolute;
+    left: 122px;
+    top: 16px;
+}
+
+#pilihan .right .phone{
+    color: black;
+}
+
+#pilihan .firstbutton:hover .phone {
+    color: white;
+}
+/* Auditor */
+#auditor{
+    
+    width: 1166px;
+    background-color: #FFFFFF;
+}
+
+#auditor h4{
+    margin-top: 68px;
+    margin-left: 100px;
+}
+
+#auditor h3{
+    margin-top: 8px;
+    margin-left: 100px;
+}
+
+#auditor .imagerow{
+    margin-top: 64px;
+    
+}
+
+#auditor .cards{
+    border: none;
+}
+
+/* Hubungi */
+#hubungi{
+    margin-top: 68px;
+    background-color: #EEEDDE;
+}
+
+#hubungi h3{
+    padding-top: 48px;
+    
+}
+
+#hubungi .right h2{
+    margin-left: 207px;
+}
+#hubungi .right img{
+    padding-left: 207px;
+    
+}
+
+#hubungi .card2{
+    margin-bottom: 48px;
+    margin-left: 24px;
+}
+
+#hubungi .button{
+   margin-left: 83px;
+    width: 109px;
+    height: 44px;
+    background-color: #203239;
+    color: white;
+}
+
+#hubungi h2{
+    padding-left: 104px;
+}
+#hubungi p{
+    padding-left: 98px;
+}
+
+#hubungi .callnow{
+    padding-top: 36px;
+    padding-left: 41px;
+    font-size: 34px;
+}
+
+/* Footer */
+footer{
+    
+    background-color: #203239;
+}
+
+
+footer .footerbar{
+    background-color: #203239; 
+}
+
+footer .icons{
+    
+    color: #FFFFFF;
+}
+
+footer ul{
+    gap: 20px;
+}
